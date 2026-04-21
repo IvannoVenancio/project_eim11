@@ -1,0 +1,23 @@
+{
+  "name": "project_eim11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvannoVenancio/project_eim11.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvannoVenancio/project_eim11/issues"
+  },
+  "homepage": "https://github.com/IvannoVenancio/project_eim11#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
